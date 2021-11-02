@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@supercharge/promise-pool": "^1.8.0",
     "aws-sdk": "^2.1009.0",
+    "axios": "^0.24.0",
     "dotenv": "^10.0.0",
     "web3": "^1.6.0",
     "xhr2": "^0.2.1"
